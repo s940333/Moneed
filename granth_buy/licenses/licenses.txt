@@ -1,0 +1,139 @@
+
+----------------------------------------------------------------FONTS----------------------------------------------------------------
+
+Before opening any psd file please download and install 'Merriweather', 'Ubuntu' and 'Cookie' Google Web Font.
+Secondary font for numbers: 'Verdana'.
+
+Download Google Web Font:
+http://www.google.com/webfonts/specimen/Merriweather - Serif
+http://www.google.com/webfonts/specimen/Ubuntu - Sans Serif
+http://www.google.com/webfonts/specimen/Cookie
+
+----------------------------------------------------------------IMAGES----------------------------------------------------------------
+
+00.Widgets.psd
+	- Featured images - © GranthWeb - granthweb@gmail.com
+	- Popular post 1 - http://www.flickr.com/photos/theilluminated/5386099858/sizes/l/in/photostream/
+	- Popular post 2 - http://www.flickr.com/photos/kylelane66/5983604432/sizes/l/in/photostream/
+	- Popular post 3 - http://www.flickr.com/photos/coryschmitz/4532150186/in/photostream/
+	- Work with us - © GranthWeb - granthweb@gmail.com
+	- Clients - © GranthWeb - granthweb@gmail.com
+
+01.Home_content_details_replay.psd
+	- Featured images - © GranthWeb - granthweb@gmail.com
+	- Work with us - © GranthWeb - granthweb@gmail.com
+	- Big picture - © GranthWeb - granthweb@gmail.com
+	- Thumbnail 1 - http://www.flickr.com/photos/theilluminated/6104272986/sizes/l/in/photostream/
+	- Thumbnail 2 - http://www.flickr.com/photos/coryschmitz/3062961982/sizes/l/in/photostream/
+	- Thumbnail 3 - © GranthWeb - granthweb@gmail.com
+	- Thumbnail 4 - http://www.flickr.com/photos/kylelane66/5983604432/sizes/l/in/photostream/
+	- Thumbnail 5 - © GranthWeb - granthweb@gmail.com
+	- Thumbnail 6 - http://www.flickr.com/photos/greeno_777/5263012946/sizes/l/in/photostream/
+	- Thumbnail 7 - http://www.flickr.com/photos/theilluminated/5386099858/sizes/l/in/photostream/
+	- Clients - © GranthWeb - granthweb@gmail.com
+
+01.Home_content_details.psd
+	- Featured images - © GranthWeb - granthweb@gmail.com
+	- Work with us - © GranthWeb - granthweb@gmail.com
+	- Big picture - © GranthWeb - granthweb@gmail.com
+	- Thumbnail 1 - http://www.flickr.com/photos/theilluminated/6104272986/sizes/l/in/photostream/
+	- Thumbnail 2 - http://www.flickr.com/photos/coryschmitz/3062961982/sizes/l/in/photostream/
+	- Thumbnail 3 - © GranthWeb - granthweb@gmail.com
+	- Thumbnail 4 - http://www.flickr.com/photos/kylelane66/5983604432/sizes/l/in/photostream/
+	- Thumbnail 5 - © GranthWeb - granthweb@gmail.com
+	- Thumbnail 6 - http://www.flickr.com/photos/greeno_777/5263012946/sizes/l/in/photostream/
+	- Thumbnail 7 - http://www.flickr.com/photos/theilluminated/5386099858/sizes/l/in/photostream/
+	- Clients - © GranthWeb - granthweb@gmail.com	
+
+01.Home_filtered.psd
+	- All images - © GranthWeb - granthweb@gmail.com	
+
+01.Home.psd
+	- Featured images - © GranthWeb - granthweb@gmail.com
+	- Work with us - © GranthWeb - granthweb@gmail.com
+	- Big picture - © GranthWeb - granthweb@gmail.com
+	- Thumbnail 1 - http://www.flickr.com/photos/theilluminated/6104272986/sizes/l/in/photostream/
+	- Thumbnail 2 - http://www.flickr.com/photos/coryschmitz/3062961982/sizes/l/in/photostream/
+	- Thumbnail 3 - © GranthWeb - granthweb@gmail.com
+	- Thumbnail 4 - http://www.flickr.com/photos/kylelane66/5983604432/sizes/l/in/photostream/
+	- Thumbnail 5 - © GranthWeb - granthweb@gmail.com
+	- Thumbnail 6 - http://www.flickr.com/photos/greeno_777/5263012946/sizes/l/in/photostream/
+	- Thumbnail 7 - http://www.flickr.com/photos/theilluminated/5386099858/sizes/l/in/photostream/
+	- Clients - © GranthWeb - granthweb@gmail.com
+
+02.About.psd
+	- Featured images - © GranthWeb - granthweb@gmail.com
+	- Popular post 1 - http://www.flickr.com/photos/theilluminated/5386099858/sizes/l/in/photostream/
+	- Popular post 2 - http://www.flickr.com/photos/kylelane66/5983604432/sizes/l/in/photostream/
+	- Popular post 3 - http://www.flickr.com/photos/coryschmitz/4532150186/in/photostream/
+	- Work with us - © GranthWeb - granthweb@gmail.com
+	- Big picture - http://www.flickr.com/photos/vfsdigitaldesign/5646808235/sizes/l/in/photostream/
+	- Thumbnail 1 - http://www.flickr.com/photos/fontfont/4525125003/sizes/o/in/photostream/
+	- Thumbnail 2 - http://www.flickr.com/photos/fontfont/4525125191/sizes/o/in/photostream/
+
+03.Shortcodes.psd
+	- Featured images - © GranthWeb - granthweb@gmail.com
+	- Popular post 1 - http://www.flickr.com/photos/theilluminated/5386099858/sizes/l/in/photostream/
+	- Popular post 2 - http://www.flickr.com/photos/kylelane66/5983604432/sizes/l/in/photostream/
+	- Popular post 3 - http://www.flickr.com/photos/coryschmitz/4532150186/in/photostream/
+
+04.Services.psd
+	- Featured images - © GranthWeb - granthweb@gmail.com
+	- Popular post 1 - http://www.flickr.com/photos/theilluminated/5386099858/sizes/l/in/photostream/
+	- Popular post 2 - http://www.flickr.com/photos/kylelane66/5983604432/sizes/l/in/photostream/
+	- Popular post 3 - http://www.flickr.com/photos/coryschmitz/4532150186/in/photostream/
+	- Icons - See in next column
+	- Thumbnails - © GranthWeb - granthweb@gmail.com
+
+05.Blog_content_details_more_replay.psd
+	- Popular post 1 - http://www.flickr.com/photos/theilluminated/5386099858/sizes/l/in/photostream/
+	- Popular post 2 - http://www.flickr.com/photos/kylelane66/5983604432/sizes/l/in/photostream/
+	- Popular post 3 - http://www.flickr.com/photos/coryschmitz/4532150186/in/photostream/
+	- Big picture - © GranthWeb - granthweb@gmail.com
+	
+05.Blog_content_details_more.psd
+	- Popular post 1 - http://www.flickr.com/photos/theilluminated/5386099858/sizes/l/in/photostream/
+	- Popular post 2 - http://www.flickr.com/photos/kylelane66/5983604432/sizes/l/in/photostream/
+	- Popular post 3 - http://www.flickr.com/photos/coryschmitz/4532150186/in/photostream/
+	- Big picture - © GranthWeb - granthweb@gmail.com
+
+05.Blog_content_details.psd
+	- Popular post 1 - http://www.flickr.com/photos/theilluminated/5386099858/sizes/l/in/photostream/
+	- Popular post 2 - http://www.flickr.com/photos/kylelane66/5983604432/sizes/l/in/photostream/
+	- Popular post 3 - http://www.flickr.com/photos/coryschmitz/4532150186/in/photostream/
+	- Big picture 1 - http://www.flickr.com/photos/coryschmitz/4532150186/in/photostream/
+	- Big picture 2 - © GranthWeb - granthweb@gmail.com
+
+05.Blog_search_result_not_found.psd
+	- Popular post 1 - http://www.flickr.com/photos/theilluminated/5386099858/sizes/l/in/photostream/
+	- Popular post 2 - http://www.flickr.com/photos/kylelane66/5983604432/sizes/l/in/photostream/
+	- Popular post 3 - http://www.flickr.com/photos/coryschmitz/4532150186/in/photostream/
+
+06.Contacts.psd
+	- Featured images - © GranthWeb - granthweb@gmail.com
+
+image_preview (interior)
+	- http://www.flickr.com/photos/58842866@N08/5388053335/sizes/l/in/set-72157625906149386/
+	- http://www.flickr.com/photos/58842866@N08/5388053979/sizes/l/in/set-72157625906149386/
+	- http://www.flickr.com/photos/58842866@N08/5388652594/sizes/l/in/set-72157625906149386/
+	- http://www.flickr.com/photos/58842866@N08/5388658984/sizes/l/in/set-72157625906149386/
+	- http://www.flickr.com/photos/58842866@N08/5388661724/sizes/l/in/set-72157625906149386/
+	- http://www.flickr.com/photos/58842866@N08/5388050419/sizes/l/in/set-72157625906149386/
+	- http://www.flickr.com/photos/58842866@N08/5388056333/sizes/l/in/set-72157625906149386/
+	- http://www.flickr.com/photos/58842866@N08/5388652886/sizes/l/in/set-72157625906149386/
+	- http://www.flickr.com/photos/58842866@N08/5388046911/sizes/l/in/set-72157625906149386/
+
+Interior (2) version from tommerton2010
+
+	- http://www.flickr.com/photos/58842866@N08/sets/72157625906149386/detail/
+
+
+
+Please read this document: http://en.wikipedia.org/wiki/Creative_Commons
+
+----------------------------------------------------------------ICONS----------------------------------------------------------------
+
+You may incorporate the six attached icons only into the work you are creating using 'Granth - Modern Business HTML Template',
+you may not use them alone, or in other projects.
+
+-----------------------------------------------------------------------------------------------------------------------------------
